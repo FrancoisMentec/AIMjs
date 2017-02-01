@@ -1,0 +1,15 @@
+{
+  "name": "aimjs",
+  "version": "1.0.33",
+  "description": "A js library for artificial intelligence creation",
+  "main": "AIM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI"
+  ],
+  "author": "François Mentec",
+  "license": "ISC",
+  "dependencies": {}
+}
